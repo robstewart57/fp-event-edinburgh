@@ -1,0 +1,37 @@
+---
+title: <event name> Programme
+---
+
+### Mostly Functional *Programme*
+
+* Keynote 1 *9:45am - 11:15am*
+
+Foo bar. Lovely picture.
+
+* Parallel session *11:45am - 12:30pm*
+
++---------------+---------------+
+| Speaker 1     | Spekaer 2     |
++---------------+---------------+
+| Bio           | Bio           |
++---------------+---------------+
+
+* Parallel session 2 *1:30pm - 2:15pm*
+
++---------------+---------------+
+| Speaker 1     | Spekaer 2     |
++---------------+---------------+
+| Bio           | Bio           |
++---------------+---------------+
+
+* Parallel session 3 *2:45pm - 3:30pm*
+
++---------------+---------------+
+| Speaker 1     | Spekaer 2     |
++---------------+---------------+
+| Bio           | Bio           |
++---------------+---------------+
+
+* Keynote 2 *4:00pm - 5:30pm*
+
+Foo bar. Lovely picture.

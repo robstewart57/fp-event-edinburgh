@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+        <title>Mostly Functional - $title$</title>
+
+        <link rel="stylesheet" type="text/css" href="/css/bootswatch/superhero.min.css" />
+        <link rel="stylesheet" type="text/css" href="/css/syntax.css" />
+        <link rel="stylesheet" type="text/css" href="/css/custom.css" />
+
+        <script type="text/javascript" src="js/jquery-1.9.1.min.js"></script>  
+        <script>
+            $$(document).ready(function(){
+                $$("#menu-$title$").addClass("active");
+            }); 
+        </script>
+    </head>
+    <body>
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="brand"
+                    href="/index.html"><x-large>&Gamma;</x-large> &#8866; <x-small>mostly</x-small> : Functional</a>
+                    <ul class="nav">
+                        <li id="menu-Home"><a href="/index.html">Home</a></li>
+                        <li id="menu-Programme"><a href="/programme.html">Programme</a></li>
+                        <li id="menu-Keynotes"><a href="/keynotes.html">Keynotes</a></li>
+                        <li id="menu-Register"><a href="/register.html">Register</a></li>
+                    </ul>
+                    <ul class="nav pull-right">
+                        <li><a href="http://www.twitter.com/edlambda"><img src="/images/site/twitter.png" style="margin:0 5px 0 0" />Twitter</a></li>
+                        <li><a href="/rss.xml"><img src="/images/site/rss.png" /></a></li>
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            $body$
+        </div>
+
+
+    </body>
+</html>

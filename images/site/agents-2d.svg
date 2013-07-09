@@ -1,0 +1,169 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5d -->
+<!-- CreationDate: Sat Jun 22 17:08:36 2013 -->
+<!-- Magnification: 1.000 -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="5.4in" height="3.9in"
+	viewBox="2160 1182 6477 4636">
+<g style="stroke-width:.025in; fill:none">
+<!-- Line -->
+<polyline points="4050,4875
+8625,4875
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6075,4875
+6075,1200
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4050,4875
+4050,1200
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4050,3075
+8625,3075
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4050,1200
+8625,1200
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8625,4875
+8625,1200
+" style="stroke:#000000;stroke-width:7;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7950,3868
+7950,2657
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 45;"/>
+<!-- Arrowhead on XXXpoint 7950 3900 - 7950 2595-->
+<polyline points="7980 2732
+7950 2612
+7920 2732
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Arrowhead on XXXpoint 7950 2625 - 7950 3930-->
+<polyline points="7920 3793
+7950 3913
+7980 3793
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Line -->
+<polyline points="5358,3825
+6267,3825
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 45;"/>
+<!-- Arrowhead on XXXpoint 5325 3825 - 6330 3825-->
+<polyline points="6193 3855
+6313 3825
+6193 3795
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Arrowhead on XXXpoint 6300 3825 - 5295 3825-->
+<polyline points="5432 3795
+5312 3825
+5432 3855
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Line -->
+<polyline points="5433,4575
+6192,4575
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 45;"/>
+<!-- Arrowhead on XXXpoint 5400 4575 - 6255 4575-->
+<polyline points="6118 4605
+6238 4575
+6118 4545
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Arrowhead on XXXpoint 6225 4575 - 5370 4575-->
+<polyline points="5507 4545
+5387 4575
+5507 4605
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Line -->
+<polyline points="6825,3568
+6825,2357
+" style="stroke:#000000;stroke-width:15;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 45;"/>
+<!-- Arrowhead on XXXpoint 6825 3600 - 6825 2295-->
+<polyline points="6855 2432
+6825 2312
+6795 2432
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Arrowhead on XXXpoint 6825 2325 - 6825 3630-->
+<polyline points="6795 3493
+6825 3613
+6855 3493
+" style="stroke:#000000;stroke-width:7;stroke-miterlimit:8;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="4200" y="5325" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">Single Node</text>
+<!-- Text -->
+<text xml:space="preserve" x="6975" y="5325" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">Clusters</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="2400" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="5700" y="1725" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="6225" y="2850" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="7875" y="1650" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="7350" y="3525" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="4275" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="5475" y="4275" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="4725" y="3525" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="4275" y="4275" fill="#000000"  font-family="Bookman" font-style="normal" font-weight="normal" font-size="192" text-anchor="start">?</text>
+<!-- Text -->
+<text xml:space="preserve" x="4275" y="4650" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">Haskell</text>
+<!-- Text -->
+<text xml:space="preserve" x="4575" y="3900" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">Java</text>
+<!-- Text -->
+<text xml:space="preserve" x="6375" y="3900" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">JADE</text>
+<!-- Text -->
+<text xml:space="preserve" x="6300" y="4650" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">CloudHaskell</text>
+<!-- Text -->
+<text xml:space="preserve" x="5550" y="5700" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="264" text-anchor="start">Scaling</text>
+<!-- Text -->
+<text xml:space="preserve" x="2175" y="3375" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="264" text-anchor="start">Reasoning</text>
+<!-- Text -->
+<text xml:space="preserve" x="2175" y="3075" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="bold" font-size="264" text-anchor="start">Runtime</text>
+<!-- Text -->
+<text xml:space="preserve" x="3075" y="4875" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">None</text>
+<!-- Text -->
+<text xml:space="preserve" x="2775" y="1425" fill="#000000"  font-family="Helvetica" font-style="normal" font-weight="normal" font-size="216" text-anchor="start">Complex</text>
+<!-- Text -->
+<text xml:space="preserve" x="7500" y="4200" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">Erlang</text>
+<!-- Text -->
+<text xml:space="preserve" x="6825" y="1725" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">3APL</text>
+<!-- Text -->
+<text xml:space="preserve" x="6450" y="2250" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">Jason</text>
+<!-- Text -->
+<text xml:space="preserve" x="7500" y="2550" fill="#000000"  font-family="Times" font-style="normal" font-weight="normal" font-size="264" text-anchor="start">eXAT</text>
+</g>
+</svg>
